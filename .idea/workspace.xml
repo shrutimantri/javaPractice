@@ -2,9 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2826fcf2-92a1-46df-9118-ec33a6524e27" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/javaPractice.iml" afterPath="$PROJECT_DIR$/.idea/javaPractice.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/AddTwoNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/AllCombinationsOfSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/AutoCompleteTrie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/BinarySearchTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/ConjugateWithSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/FreeCalendar$Interval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/FreeCalendar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/GeneratingPrimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/MinSquares.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/NumberAsSumOfSquares.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/PowerSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/Problem_2x3y5z.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/QAZResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/QAZValue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/ReadSingleWord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/SimpleInterest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/StringCombinations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/StringEncodeDecode_Google.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/SudokuSolutions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/TestCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/TreeFromInordernPreorder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/BishopMoves.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/ContinentsAndOceans.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/FootballLeagueTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/LogicPyramid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/MinProductArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/Position.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/ScoreTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/algorithms/warmup/CompareTheTriplets.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/algorithms/warmup/SimpleArraySum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/algorithms/warmup/SolveMeFirst.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/hourRank3/ContestPerformance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/hourRank3/GCDExploration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/MatchTheShoes$DescComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/MatchTheShoes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/TheInquiringManager$Order.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/TheInquiringManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/ImportantLinksForPreparation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/NotAbleToWriteSolutions" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob10_SummationOfPrimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob11_LargestProductInGrid.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob12_HighlyDivisibleTriangularNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob13_50DigitNumbersSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob145_ReversibleNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob14_LongestCollatzSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob15_LatticePaths.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob16_PowerDigitSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob17_NumberLetterCounts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob18_MaximumPathSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob19_CountingSundays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob1_MultipleOf3Or5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob20_FactorialDigitSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob21_AmicableNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob22_NamesScores.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob23_NonAbundantSums.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob24_MillionthLexicographicPermutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob25_1000DigitFibonacciNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob26_LongestRecurringCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob27_QuadraticPrimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob28_NumberSpiralDiagonals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob29_DistinctPowers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob2_SumOfEvenFibonacci.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob30_DigitFifthPower.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob31_CoinSums.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob32_MultiplicationIsPandigital.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob33_DigitCancellingFractions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob34_DigitFactorials.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob35_CircularPrimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob36_DoubleBasePalindrome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob38_PandigitalMultiples.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob39_IntegerRightTriangles.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob3_LargestPrimeFactor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob40_NthDigitInFraction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob41_PandigitalPrime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob42_CodedTriangleNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob44_SumAndDiffOfPentagonalNos.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob45_TriangularPentagonalHexagonal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob48_Last10Digits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob49_PrimePermutations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob4_LargestProductPalindrome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob55_LychrelNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob56_PowerfulDigitSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob58_SpiralPrimes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob5_LCMSmallestMutiple.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob61_CyclicalFigurateNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob63_PowerfulDigit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob67_MaximumPathSum2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob6_SumSquareDiff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob75_IntegerRightTriangles.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob7_10001Prime.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob8_LargestProdInSeries.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob9_SpecialPythTriplet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Try.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/names.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/p042_words.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/p067_triangle.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/prob18Triangle.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/ConcatenateNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/FileReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/GCD.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/GeneratingConsecutiveNumberFromSetOFDigits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/IsPandigital.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/NumberOfDivisors.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/SieveOfEratosthenes.class" afterPath="" />
     </list>
     <ignored path="javaPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,20 +218,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -580,12 +670,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470247844751</updated>
-      <workItem from="1470247846056" duration="621000" />
+      <workItem from="1470247846056" duration="698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621000" />
+    <option name="totallyTimeSpent" value="698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
