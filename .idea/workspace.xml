@@ -2,111 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2826fcf2-92a1-46df-9118-ec33a6524e27" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/warmup/CompareTheTriplets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/warmup/SimpleArraySum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/warmup/SolveMeFirst.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javaPractice.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/AddTwoNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/AllCombinationsOfSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/AutoCompleteTrie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/BinarySearchTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/ConjugateWithSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/FreeCalendar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/GeneratingPrimes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/MinSquares.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/NumberAsSumOfSquares.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/PowerSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/Problem_2x3y5z.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/QAZValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/ReadSingleWord.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/SimpleInterest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/StringCombinations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/StringEncodeDecode_Google.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/SudokuSolutions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/TestCode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/TreeFromInordernPreorder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/codevita/BishopMoves.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/codevita/ContinentsAndOceans.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/codevita/FootballLeagueTable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/codevita/LogicPyramid.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/codevita/MinProductArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/codevita/text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/hackerrank/domains/algorithms/warmup/CompareTheTriplets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/hackerrank/domains/algorithms/warmup/SimpleArraySum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/hackerrank/domains/algorithms/warmup/SolveMeFirst.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/hackerrank/hourRank3/ContestPerformance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/hackerrank/hourRank3/GCDExploration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/hackerrank/zalandoCodesprint/MatchTheShoes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/hackerrank/zalandoCodesprint/TheInquiringManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/ImportantLinksForPreparation" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/NotAbleToWriteSolutions" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob10_SummationOfPrimes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob11_LargestProductInGrid.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob12_HighlyDivisibleTriangularNum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob13_50DigitNumbersSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob145_ReversibleNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob14_LongestCollatzSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob15_LatticePaths.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob16_PowerDigitSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob17_NumberLetterCounts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob18_MaximumPathSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob19_CountingSundays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob1_MultipleOf3Or5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob20_FactorialDigitSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob21_AmicableNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob22_NamesScores.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob23_NonAbundantSums.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob24_MillionthLexicographicPermutation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob25_1000DigitFibonacciNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob26_LongestRecurringCycle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob27_QuadraticPrimes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob28_NumberSpiralDiagonals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob29_DistinctPowers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob2_SumOfEvenFibonacci.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob30_DigitFifthPower.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob31_CoinSums.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob32_MultiplicationIsPandigital.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob33_DigitCancellingFractions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob34_DigitFactorials.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob35_CircularPrimes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob36_DoubleBasePalindrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob38_PandigitalMultiples.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob39_IntegerRightTriangles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob3_LargestPrimeFactor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob40_NthDigitInFraction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob41_PandigitalPrime.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob42_CodedTriangleNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob44_SumAndDiffOfPentagonalNos.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob45_TriangularPentagonalHexagonal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob48_Last10Digits.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob49_PrimePermutations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob4_LargestProductPalindrome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob55_LychrelNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob56_PowerfulDigitSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob58_SpiralPrimes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob5_LCMSmallestMutiple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob61_CyclicalFigurateNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob63_PowerfulDigit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob67_MaximumPathSum2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob6_SumSquareDiff.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob75_IntegerRightTriangles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob7_10001Prime.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob8_LargestProdInSeries.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Prob9_SpecialPythTriplet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/Try.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/files/names.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/files/p042_words.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/files/p067_triangle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/projectEuler/files/prob18Triangle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/utilities/ConcatenateNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/utilities/FileReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/utilities/GCD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/utilities/GeneratingConsecutiveNumberFromSetOFDigits.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/utilities/IsPandigital.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/utilities/NumberOfDivisors.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/code/java/com/practice/utilities/SieveOfEratosthenes.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/javaPractice.iml" afterPath="$PROJECT_DIR$/.idea/javaPractice.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="javaPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArraysDS.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArraysDS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,6 +54,14 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -200,146 +116,18 @@
               <option name="myItemId" value="javaPractice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackerrank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackerrank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domains" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arrays" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackerrank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domains" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -792,16 +580,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470247844751</updated>
-      <workItem from="1470247846056" duration="422000" />
+      <workItem from="1470247846056" duration="621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="422000" />
+    <option name="totallyTimeSpent" value="621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -815,7 +603,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -844,8 +632,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
