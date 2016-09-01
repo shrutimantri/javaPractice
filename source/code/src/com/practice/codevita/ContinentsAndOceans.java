@@ -42,30 +42,24 @@ public class ContinentsAndOceans {
                 }
             }
         }
-        Collections.sort(list);
-        Collections.reverse(list);
-        int count = 0;
-        for (int i : list){
-            System.out.println("Island " + ++count +": " +i);
-        }
-        System.out.print("Number of continents: " + count);
+        System.out.print("Number of continents: " + list.size());
     }
 
     static void dfs(char[][] grid, boolean[][] visited, int i, int j) {
         if (i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || visited[i][j] || grid[i][j] == ' ') {
             return;
         }
-        grid[i][j] = grid[i][j] == '#' ? '1' : '0' ;
+        grid[i][j] = grid[i][j] == 'Y' ? '1' : '0' ;
         sum = sum + Integer.parseInt(String.valueOf(grid[i][j]));
         visited[i][j] = true;
         dfs(grid, visited, i - 1, j);
         dfs(grid, visited, i + 1, j);
         dfs(grid, visited, i, j - 1);
         dfs(grid, visited, i, j + 1);
-        dfs(grid, visited, i - 1, j - 1);
+        /*dfs(grid, visited, i - 1, j - 1);
         dfs(grid, visited, i + 1, j + 1);
         dfs(grid, visited, i - 1, j + 1);
-        dfs(grid, visited, i + 1, j - 1);
+        dfs(grid, visited, i + 1, j - 1);*/
     }
 
     static String readFile(String path) {

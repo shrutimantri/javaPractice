@@ -1,5 +1,8 @@
 package com.practice;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * Created by shruti.mantri on 05/04/15.
  */
@@ -8,7 +11,11 @@ public class TestCode {
         /*for(int i = 1; i<=20; i++) {
             System.out.println( i + " : " +convert(i));
         }*/
-        convert(4);
+        //convert(4);
+        Set s = new HashSet<>();
+        s.add(new String("Shruti"));
+        s.add(new String("Shruti"));
+        System.out.print(s.size());
     }
 
     public static String convert(int n) {

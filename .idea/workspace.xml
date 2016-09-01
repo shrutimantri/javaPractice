@@ -2,113 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2826fcf2-92a1-46df-9118-ec33a6524e27" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/AddTwoNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/AllCombinationsOfSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/AutoCompleteTrie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/BinarySearchTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/ConjugateWithSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/FreeCalendar$Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/FreeCalendar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/GeneratingPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/MinSquares.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/NumberAsSumOfSquares.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/PowerSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/Problem_2x3y5z.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/QAZResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/QAZValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/ReadSingleWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/SimpleInterest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/StringCombinations.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/StringEncodeDecode_Google.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/SudokuSolutions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/TestCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/TreeFromInordernPreorder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/BishopMoves.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/ContinentsAndOceans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/FootballLeagueTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/LogicPyramid.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/MinProductArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/Position.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/ScoreTable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/codevita/text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/algorithms/warmup/CompareTheTriplets.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/algorithms/warmup/SimpleArraySum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/algorithms/warmup/SolveMeFirst.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/hourRank3/ContestPerformance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/hourRank3/GCDExploration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/MatchTheShoes$DescComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/MatchTheShoes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/TheInquiringManager$Order.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/hackerrank/zalandoCodesprint/TheInquiringManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/ImportantLinksForPreparation" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/NotAbleToWriteSolutions" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob10_SummationOfPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob11_LargestProductInGrid.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob12_HighlyDivisibleTriangularNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob13_50DigitNumbersSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob145_ReversibleNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob14_LongestCollatzSequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob15_LatticePaths.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob16_PowerDigitSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob17_NumberLetterCounts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob18_MaximumPathSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob19_CountingSundays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob1_MultipleOf3Or5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob20_FactorialDigitSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob21_AmicableNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob22_NamesScores.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob23_NonAbundantSums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob24_MillionthLexicographicPermutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob25_1000DigitFibonacciNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob26_LongestRecurringCycle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob27_QuadraticPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob28_NumberSpiralDiagonals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob29_DistinctPowers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob2_SumOfEvenFibonacci.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob30_DigitFifthPower.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob31_CoinSums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob32_MultiplicationIsPandigital.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob33_DigitCancellingFractions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob34_DigitFactorials.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob35_CircularPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob36_DoubleBasePalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob38_PandigitalMultiples.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob39_IntegerRightTriangles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob3_LargestPrimeFactor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob40_NthDigitInFraction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob41_PandigitalPrime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob42_CodedTriangleNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob44_SumAndDiffOfPentagonalNos.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob45_TriangularPentagonalHexagonal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob48_Last10Digits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob49_PrimePermutations.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob4_LargestProductPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob55_LychrelNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob56_PowerfulDigitSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob58_SpiralPrimes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob5_LCMSmallestMutiple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob61_CyclicalFigurateNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob63_PowerfulDigit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob67_MaximumPathSum2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob6_SumSquareDiff.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob75_IntegerRightTriangles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob7_10001Prime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob8_LargestProdInSeries.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Prob9_SpecialPythTriplet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/Try.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/names.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/p042_words.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/p067_triangle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/projectEuler/files/prob18Triangle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/ConcatenateNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/FileReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/GCD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/GeneratingConsecutiveNumberFromSetOFDigits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/IsPandigital.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/NumberOfDivisors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/javaPractice/com/practice/utilities/SieveOfEratosthenes.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/BestSites.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/BinaryTreeFromPreorderAndInorder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/MinMaxByDivideAndConquer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/SortedArrayToBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/SortedLinkedListToBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/codevita/CollectingCandies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/codevita/GamesOfMarbles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/codevita/TheMysteryOfSky.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/codevita/TheVitaSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/codevita/VerifyJson.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/Candies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/FibonacciModified.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/TheMaximumSubarray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDSHourglass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/DynamicArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/LeftRotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/SparseArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/interviewbit/arrays/SpiralOrderMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/saurabhschool/dynamicprog/MinimumCoinsChange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/uber/CustomStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code/src/com/practice/uber/SheepField.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/code/src/com/practice/TestCode.java" afterPath="$PROJECT_DIR$/source/code/src/com/practice/TestCode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/code/src/com/practice/codevita/ContinentsAndOceans.java" afterPath="$PROJECT_DIR$/source/code/src/com/practice/codevita/ContinentsAndOceans.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/code/src/com/practice/package-info.java" afterPath="$PROJECT_DIR$/source/code/src/com/practice/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/code/src/com/practice/utilities/GCD.java" afterPath="$PROJECT_DIR$/source/code/src/com/practice/utilities/GCD.java" />
     </list>
     <ignored path="javaPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,28 +50,119 @@
     <favorites_list name="javaPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ArraysDS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TheVitaSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/TheVitaSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="252">
+              <caret line="48" column="5" selection-start-line="23" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="CollectingCandies.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/CollectingCandies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="179">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GamesOfMarbles.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/GamesOfMarbles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-466">
+              <caret line="64" column="38" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheMysteryOfSky.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/TheMysteryOfSky.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpiralOrderMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/interviewbit/arrays/SpiralOrderMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeFromPreorderAndInorder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/BinaryTreeFromPreorderAndInorder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SheepField.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/uber/SheepField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/uber/CustomStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContinentsAndOceans.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/ContinentsAndOceans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="82" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/VerifyJson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="67" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,6 +177,34 @@
       <list>
         <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDSHourglass.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/DynamicArray.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/LeftRotation.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/SparseArrays.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/saurabhschool/dynamicprog/MinimumCoinsChange.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/FibonacciModified.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/TheMaximumSubarray.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/Candies.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/TestCode.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/utilities/GCD.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/BinaryTreeFromPreorderAndInorder.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/MinMaxByDivideAndConquer.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/SortedArrayToBST.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/SortedLinkedListToBST.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/package-info.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/BestSites.txt" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/codevita/MarbleGame.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/codevita/GamesOfMarbles.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/codevita/TheVitaSum.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/codevita/CollectingCandies.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/codevita/TheMysteryOfSky.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/codevita/VerifyJson.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/codevita/ContinentsAndOceans.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/uber/SheepField.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/uber/CustomStack.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/interviewbit/arrays/Solution.java" />
+        <option value="$PROJECT_DIR$/source/code/src/com/practice/interviewbit/arrays/SpiralOrderMatrix.java" />
       </list>
     </option>
   </component>
@@ -173,10 +213,17 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="729" />
+    <option name="height" value="714" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -221,11 +268,157 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SortedLinkedListToBST.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SortedArrayToBST.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,15 +429,95 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ArraysDS">
-    <configuration default="false" name="ArraysDS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SpiralOrderMatrix">
+    <configuration default="false" name="TheMysteryOfSky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.practice.hackerrank.domains.dataStructures.arrays.*" />
+          <option name="PATTERN" value="com.practice.codevita.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.hackerrank.domains.dataStructures.arrays.ArraysDS" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.codevita.TheMysteryOfSky" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.practice.codevita.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.practice.codevita.VerifyJson" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ContinentsAndOceans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.practice.codevita.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.practice.codevita.ContinentsAndOceans" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpiralOrderMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.practice.interviewbit.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.practice.interviewbit.arrays.SpiralOrderMatrix" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.practice.interviewbit.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.practice.interviewbit.arrays.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -471,6 +744,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -636,6 +910,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -651,17 +931,28 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.ArraysDS" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.TheMysteryOfSky" />
+      <item index="1" class="java.lang.String" itemvalue="Application.VerifyJson" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ContinentsAndOceans" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SpiralOrderMatrix" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArraysDS" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SpiralOrderMatrix" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ContinentsAndOceans" />
+        <item index="3" class="java.lang.String" itemvalue="Application.VerifyJson" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TheMysteryOfSky" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -671,67 +962,766 @@
       <option name="presentableId" value="Default" />
       <updated>1470247844751</updated>
       <workItem from="1470247846056" duration="698000" />
+      <workItem from="1470249953190" duration="5848000" />
+      <workItem from="1470315846457" duration="642000" />
+      <workItem from="1470320391375" duration="11561000" />
+      <workItem from="1470420545946" duration="30873000" />
+      <workItem from="1472406314224" duration="3035000" />
+      <workItem from="1472562608051" duration="8997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="698000" />
+    <option name="totallyTimeSpent" value="61654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="714" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32550335" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4295302" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/Candies.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/utilities/GCD.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/code/src/com/practice/interviewbit/arrays/SpiralOrderMatrix.java</url>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="68" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="seqList.get(0)" language="JAVA" custom="" />
+        <watch expression="y % seqList.get(seq).size()" language="JAVA" custom="" />
+        <watch expression="((int[]) candies).toString()" language="JAVA" custom="" />
+        <watch expression="(cal.get(Calendar.DAY_OF_WEEK)+2) %7 " language="JAVA" custom="" />
+        <watch expression="cal.get(Calendar.DAY_OF_WEEK)" language="JAVA" custom="" />
+        <watch expression="json.length()" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDSHourglass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/DynamicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/LeftRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/SparseArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/saurabhschool/dynamicprog/MinimumCoinsChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/ArraysDSHourglass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/DynamicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/LeftRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/dataStructures/arrays/SparseArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/TheMaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/warmup/SimpleArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/warmup/SolveMeFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/warmup/CompareTheTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/FibonacciModified.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/NikitaAndTheGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/hackerrank/domains/algorithms/dynamicProgramming/Candies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="218" column="30" selection-start-line="218" selection-start-column="30" selection-end-line="218" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21015">
+          <caret line="1464" column="22" selection-start-line="1464" selection-start-column="22" selection-end-line="1464" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#124311#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4677#4678#0" expanded="false" />
+            <element signature="e#4714#4715#0" expanded="false" />
+            <element signature="e#5687#5688#0" expanded="false" />
+            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#13098#13099#0" expanded="false" />
+            <element signature="e#13150#13151#0" expanded="false" />
+            <element signature="e#18781#18782#0" expanded="false" />
+            <element signature="e#18834#18835#0" expanded="false" />
+            <element signature="e#20727#20728#0" expanded="false" />
+            <element signature="e#20771#20772#0" expanded="false" />
+            <element signature="e#21961#21962#0" expanded="false" />
+            <element signature="e#22041#22042#0" expanded="false" />
+            <element signature="e#22786#22787#0" expanded="false" />
+            <element signature="e#22821#22822#0" expanded="false" />
+            <element signature="e#23072#23073#0" expanded="false" />
+            <element signature="e#23112#23113#0" expanded="false" />
+            <element signature="e#29462#29463#0" expanded="false" />
+            <element signature="e#29533#29534#0" expanded="false" />
+            <element signature="e#36393#36394#0" expanded="false" />
+            <element signature="e#36459#36460#0" expanded="false" />
+            <element signature="e#38369#38370#0" expanded="false" />
+            <element signature="e#38423#38424#0" expanded="false" />
+            <element signature="e#47538#47539#0" expanded="false" />
+            <element signature="e#47602#47603#0" expanded="false" />
+            <element signature="e#55800#55801#0" expanded="false" />
+            <element signature="e#55844#55845#0" expanded="false" />
+            <element signature="e#56437#56438#0" expanded="false" />
+            <element signature="e#56514#56515#0" expanded="false" />
+            <element signature="e#58481#58482#0" expanded="false" />
+            <element signature="e#58518#58519#0" expanded="false" />
+            <element signature="e#62860#62861#0" expanded="false" />
+            <element signature="e#62916#62917#0" expanded="false" />
+            <element signature="e#66457#66458#0" expanded="false" />
+            <element signature="e#66495#66496#0" expanded="false" />
+            <element signature="e#70749#70750#0" expanded="false" />
+            <element signature="e#70802#70803#0" expanded="false" />
+            <element signature="e#78240#78241#0" expanded="false" />
+            <element signature="e#78299#78300#0" expanded="false" />
+            <element signature="e#82616#82617#0" expanded="false" />
+            <element signature="e#82667#82668#0" expanded="false" />
+            <element signature="e#82971#82972#0" expanded="false" />
+            <element signature="e#83020#83021#0" expanded="false" />
+            <element signature="e#94598#94599#0" expanded="false" />
+            <element signature="e#94636#94637#0" expanded="false" />
+            <element signature="e#104675#104676#0" expanded="false" />
+            <element signature="e#104730#104731#0" expanded="false" />
+            <element signature="e#111196#111197#0" expanded="false" />
+            <element signature="e#111251#111252#0" expanded="false" />
+            <element signature="e#113343#113344#0" expanded="false" />
+            <element signature="e#113370#113371#0" expanded="false" />
+            <element signature="e#117893#117894#0" expanded="false" />
+            <element signature="e#117955#117956#0" expanded="false" />
+            <element signature="e#118405#118406#0" expanded="false" />
+            <element signature="e#118444#118445#0" expanded="false" />
+            <element signature="e#119456#119457#0" expanded="false" />
+            <element signature="e#119510#119511#0" expanded="false" />
+            <element signature="e#120159#120160#0" expanded="false" />
+            <element signature="e#120213#120214#0" expanded="false" />
+            <element signature="e#120482#120483#0" expanded="false" />
+            <element signature="e#120521#120522#0" expanded="false" />
+            <element signature="e#120889#120890#0" expanded="false" />
+            <element signature="e#120932#120933#0" expanded="false" />
+            <element signature="e#121727#121728#0" expanded="false" />
+            <element signature="e#121769#121770#0" expanded="false" />
+            <element signature="e#122184#122185#0" expanded="false" />
+            <element signature="e#122223#122224#0" expanded="false" />
+            <element signature="e#122645#122646#0" expanded="false" />
+            <element signature="e#122685#122686#0" expanded="false" />
+            <element signature="e#123115#123116#0" expanded="false" />
+            <element signature="e#123156#123157#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/TestCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/saurabhschool/dynamicprog/MinimumCoinsChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/MinMaxByDivideAndConquer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#162#163#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/SortedLinkedListToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="5101" column="50" selection-start-line="5101" selection-start-column="50" selection-end-line="5101" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/BestSites.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="75" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="313" column="22" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/projectEuler/Prob5_LCMSmallestMutiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/utilities/GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="5" selection-start-line="10" selection-start-column="11" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="579" column="0" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="337" column="0" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#90987#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#12815#12816#0" expanded="false" />
+            <element signature="e#12893#12894#0" expanded="false" />
+            <element signature="e#19072#19073#0" expanded="false" />
+            <element signature="e#19130#19131#0" expanded="false" />
+            <element signature="e#19296#19297#0" expanded="false" />
+            <element signature="e#19379#19380#0" expanded="false" />
+            <element signature="e#21076#21077#0" expanded="false" />
+            <element signature="e#21103#21104#0" expanded="false" />
+            <element signature="e#21303#21304#0" expanded="false" />
+            <element signature="e#21335#21336#0" expanded="false" />
+            <element signature="e#23597#23598#0" expanded="false" />
+            <element signature="e#23651#23652#0" expanded="false" />
+            <element signature="e#24298#24299#0" expanded="false" />
+            <element signature="e#24363#24364#0" expanded="false" />
+            <element signature="e#31026#31027#0" expanded="false" />
+            <element signature="e#31064#31065#0" expanded="false" />
+            <element signature="e#36105#36106#0" expanded="false" />
+            <element signature="e#36189#36190#0" expanded="false" />
+            <element signature="e#36241#36242#0" expanded="false" />
+            <element signature="e#36319#36320#0" expanded="false" />
+            <element signature="e#38263#38264#0" expanded="false" />
+            <element signature="e#38343#38344#0" expanded="false" />
+            <element signature="e#40223#40224#0" expanded="false" />
+            <element signature="e#40273#40274#0" expanded="false" />
+            <element signature="e#41993#41994#0" expanded="false" />
+            <element signature="e#42057#42058#0" expanded="false" />
+            <element signature="e#42126#42127#0" expanded="false" />
+            <element signature="e#42202#42203#0" expanded="false" />
+            <element signature="e#54965#54966#0" expanded="false" />
+            <element signature="e#55008#55009#0" expanded="false" />
+            <element signature="e#63047#63048#0" expanded="false" />
+            <element signature="e#63132#63133#0" expanded="false" />
+            <element signature="e#66429#66430#0" expanded="false" />
+            <element signature="e#66486#66487#0" expanded="false" />
+            <element signature="e#66600#66601#0" expanded="false" />
+            <element signature="e#66663#66664#0" expanded="false" />
+            <element signature="e#68529#68530#0" expanded="false" />
+            <element signature="e#68580#68581#0" expanded="false" />
+            <element signature="e#71152#71153#0" expanded="false" />
+            <element signature="e#71234#71235#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11950#0" expanded="false" />
+            <element signature="e#3272#3273#0" expanded="false" />
+            <element signature="e#3303#3304#0" expanded="false" />
+            <element signature="e#4161#4162#0" expanded="false" />
+            <element signature="e#4211#4212#0" expanded="false" />
+            <element signature="e#10229#10230#0" expanded="false" />
+            <element signature="e#10270#10271#0" expanded="false" />
+            <element signature="e#10337#10338#0" expanded="false" />
+            <element signature="e#10389#10390#0" expanded="false" />
+            <element signature="e#10445#10446#0" expanded="false" />
+            <element signature="e#10490#10491#0" expanded="false" />
+            <element signature="e#10561#10562#0" expanded="false" />
+            <element signature="e#10617#10618#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1374#0" expanded="false" />
+            <element signature="e#773#774#0" expanded="false" />
+            <element signature="e#796#797#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1028#1029#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49770">
+          <caret line="3373" column="0" selection-start-line="3373" selection-start-column="0" selection-end-line="3373" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#162019#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#22589#22590#0" expanded="false" />
+            <element signature="e#22618#22619#0" expanded="false" />
+            <element signature="e#23293#23294#0" expanded="false" />
+            <element signature="e#23342#23343#0" expanded="false" />
+            <element signature="e#40122#40123#0" expanded="false" />
+            <element signature="e#40212#40213#0" expanded="false" />
+            <element signature="e#41810#41811#0" expanded="false" />
+            <element signature="e#41892#41893#0" expanded="false" />
+            <element signature="e#78219#78220#0" expanded="false" />
+            <element signature="e#78283#78284#0" expanded="false" />
+            <element signature="e#78505#78506#0" expanded="false" />
+            <element signature="e#78569#78570#0" expanded="false" />
+            <element signature="e#84861#84862#0" expanded="false" />
+            <element signature="e#84920#84921#0" expanded="false" />
+            <element signature="e#87189#87190#0" expanded="false" />
+            <element signature="e#87248#87249#0" expanded="false" />
+            <element signature="e#87394#87395#0" expanded="false" />
+            <element signature="e#87455#87456#0" expanded="false" />
+            <element signature="e#87664#87665#0" expanded="false" />
+            <element signature="e#87698#87699#0" expanded="false" />
+            <element signature="e#124994#124995#0" expanded="false" />
+            <element signature="e#125050#125051#0" expanded="false" />
+            <element signature="e#125389#125390#0" expanded="false" />
+            <element signature="e#125445#125446#0" expanded="false" />
+            <element signature="e#133087#133088#0" expanded="false" />
+            <element signature="e#133122#133123#0" expanded="false" />
+            <element signature="e#151023#151024#0" expanded="false" />
+            <element signature="e#151069#151070#0" expanded="false" />
+            <element signature="e#151125#151126#0" expanded="false" />
+            <element signature="e#151166#151167#0" expanded="false" />
+            <element signature="e#151233#151234#0" expanded="false" />
+            <element signature="e#151275#151276#0" expanded="false" />
+            <element signature="e#157088#157089#0" expanded="false" />
+            <element signature="e#157157#157158#0" expanded="false" />
+            <element signature="e#157219#157220#0" expanded="false" />
+            <element signature="e#157293#157294#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6165">
+          <caret line="467" column="28" selection-start-line="467" selection-start-column="28" selection-end-line="467" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#142334#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#44847#44848#0" expanded="false" />
+            <element signature="e#44933#44934#0" expanded="false" />
+            <element signature="e#64001#64002#0" expanded="false" />
+            <element signature="e#64053#64054#0" expanded="false" />
+            <element signature="e#64097#64098#0" expanded="false" />
+            <element signature="e#64167#64168#0" expanded="false" />
+            <element signature="e#64226#64227#0" expanded="false" />
+            <element signature="e#64280#64281#0" expanded="false" />
+            <element signature="e#66340#66341#0" expanded="false" />
+            <element signature="e#66409#66410#0" expanded="false" />
+            <element signature="e#69447#69448#0" expanded="false" />
+            <element signature="e#69502#69503#0" expanded="false" />
+            <element signature="e#70577#70578#0" expanded="false" />
+            <element signature="e#70627#70628#0" expanded="false" />
+            <element signature="e#71057#71058#0" expanded="false" />
+            <element signature="e#71104#71105#0" expanded="false" />
+            <element signature="e#73319#73320#0" expanded="false" />
+            <element signature="e#73355#73356#0" expanded="false" />
+            <element signature="e#73857#73858#0" expanded="false" />
+            <element signature="e#73894#73895#0" expanded="false" />
+            <element signature="e#80819#80820#0" expanded="false" />
+            <element signature="e#80863#80864#0" expanded="false" />
+            <element signature="e#92140#92141#0" expanded="false" />
+            <element signature="e#92197#92198#0" expanded="false" />
+            <element signature="e#95474#95475#0" expanded="false" />
+            <element signature="e#95529#95530#0" expanded="false" />
+            <element signature="e#95675#95676#0" expanded="false" />
+            <element signature="e#95729#95730#0" expanded="false" />
+            <element signature="e#95823#95824#0" expanded="false" />
+            <element signature="e#95877#95878#0" expanded="false" />
+            <element signature="e#96052#96053#0" expanded="false" />
+            <element signature="e#96106#96107#0" expanded="false" />
+            <element signature="e#103240#103241#0" expanded="false" />
+            <element signature="e#103287#103288#0" expanded="false" />
+            <element signature="e#103335#103336#0" expanded="false" />
+            <element signature="e#103381#103382#0" expanded="false" />
+            <element signature="e#103433#103434#0" expanded="false" />
+            <element signature="e#103486#103487#0" expanded="false" />
+            <element signature="e#103534#103535#0" expanded="false" />
+            <element signature="e#103609#103610#0" expanded="false" />
+            <element signature="e#103663#103664#0" expanded="false" />
+            <element signature="e#103708#103709#0" expanded="false" />
+            <element signature="e#104948#104949#0" expanded="false" />
+            <element signature="e#104997#104998#0" expanded="false" />
+            <element signature="e#106192#106193#0" expanded="false" />
+            <element signature="e#106240#106241#0" expanded="false" />
+            <element signature="e#111238#111239#0" expanded="false" />
+            <element signature="e#111300#111301#0" expanded="false" />
+            <element signature="e#115544#115545#0" expanded="false" />
+            <element signature="e#115571#115572#0" expanded="false" />
+            <element signature="e#115685#115686#0" expanded="false" />
+            <element signature="e#115720#115721#0" expanded="false" />
+            <element signature="e#116357#116358#0" expanded="false" />
+            <element signature="e#116395#116396#0" expanded="false" />
+            <element signature="e#116679#116680#0" expanded="false" />
+            <element signature="e#116709#116710#0" expanded="false" />
+            <element signature="e#117482#117483#0" expanded="false" />
+            <element signature="e#117519#117520#0" expanded="false" />
+            <element signature="e#118656#118657#0" expanded="false" />
+            <element signature="e#118701#118702#0" expanded="false" />
+            <element signature="e#119147#119148#0" expanded="false" />
+            <element signature="e#119175#119176#0" expanded="false" />
+            <element signature="e#119914#119915#0" expanded="false" />
+            <element signature="e#119971#119972#0" expanded="false" />
+            <element signature="e#121546#121547#0" expanded="false" />
+            <element signature="e#121603#121604#0" expanded="false" />
+            <element signature="e#122224#122225#0" expanded="false" />
+            <element signature="e#122281#122282#0" expanded="false" />
+            <element signature="e#130990#130991#0" expanded="false" />
+            <element signature="e#131030#131031#0" expanded="false" />
+            <element signature="e#142268#142269#0" expanded="false" />
+            <element signature="e#142330#142331#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/VerifyJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/ContinentsAndOceans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="82" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/CollectingCandies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/GamesOfMarbles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-466">
+          <caret line="64" column="38" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/TheMysteryOfSky.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/codevita/TheVitaSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="48" column="5" selection-start-line="23" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/uber/SheepField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/interviewbit/arrays/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/uber/CustomStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/interviewbit/arrays/SpiralOrderMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/code/src/com/practice/BinaryTreeFromPreorderAndInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding />
         </state>
       </provider>

@@ -5,7 +5,7 @@ package com.practice.utilities;
  */
 public class GCD {
     public static void main(String[] args){
-        gcd(5, 10);
+        gcd(12, 18);
     }
 
     public static long gcd(long a, long b) {
